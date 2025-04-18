@@ -19,12 +19,12 @@ Chatter is a multiplatform real-time messaging application built using the MERN 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/pjyotianwar/Chatter.git
+git clone https://github.com/Piyush11204/Chattter.git
 ```
 
 2. Install dependencies:
 ```bash
-cd Chatter
+cd Chattter
 npm install
 ```
 
